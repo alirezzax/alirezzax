@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Alireza  
 
 I am a highly motivated Front-End Developer with great passion for technology. For me, web development is more than just writing code. Is to communicate and work well with others in a team, to be curious and open to criticism and different approaches, to solve problems and to never stop learning. I'm trying to make progress, improve my skills and knowledge. I've dealt with lots of issues I've faced since I began my career. I'm always ready to help my teammates with my innovation, creativity and effort; no matter how big is the challenge, I'll do my best.
+<p> I'm currently looking for an opportunity to continue doing what I love, in a challenging but friendly environment.</p>
 <br /><br />
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
