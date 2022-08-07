@@ -10,7 +10,6 @@
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-efd100?style=flat&logo=javascript&logoColor=2a2f26" />
   <img alt="Sass" src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/-Github-8d8d8d?style=flat&logo=github&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img alt="nextjs" src="https://img.shields.io/badge/-NEXT.js-ddd?style=flat&logo=nextdotjs&logoColor=111" />
